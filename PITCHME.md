@@ -1,4 +1,14 @@
 # Let's Get Started
+```php
+<?php
+class Example
+{
+  public function hello()
+  {
+    //
+  }
+}
+```
 
 ---
 
